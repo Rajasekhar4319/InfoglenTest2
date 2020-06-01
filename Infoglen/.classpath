@@ -32,5 +32,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/org.apache.commons.codec-1.8.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/rest-assured-4.3.0-dist.zip"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
